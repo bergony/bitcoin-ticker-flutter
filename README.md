@@ -14,7 +14,8 @@ We’re going to make a crypto currency price checking app. By the end of the mo
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
-## What you will learn
+## What you will learn 
+
 
 - How to use the DropdownButton Widget from Material design.
 - How to loop through code using Dart for and for-in loops.
